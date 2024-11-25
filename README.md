@@ -5,7 +5,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-This application/project was created as a submission to my Web Technologies Course assign on how to create a server with endpoint using node js with express
+This application/project was created as a submission to my Web Technologies Course assign on how to creaate a react project with Vite and style the project with Tailwindcss
 
 ## Screenshots
 - Main Interface
