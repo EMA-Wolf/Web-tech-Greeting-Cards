@@ -1,8 +1,23 @@
-# React + Vite
+<!-- Please update value in the {}  -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">A Node Js Backend Server</h1>
 
-Currently, two official plugins are available:
+<!-- OVERVIEW -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+This application/project was created as a submission to my Web Technologies Course assign on how to create a server with endpoint using node js with express
+
+## Screenshots
+- Main Interface
+![screenshot](./src/assets/Screenshot.png)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [Node JS](https://www.w3schools.com/nodejs/)
+- [Vite + React](https://dev.to/mcbarna/setup-react-with-vite-on-vscode-a-step-by-step-tutorial-591g)
+
+
+## Contact
+- GitHub [@EMA-Wolf](https://github.com/EMA-Wolf)
